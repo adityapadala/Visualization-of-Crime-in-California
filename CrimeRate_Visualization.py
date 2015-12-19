@@ -7,7 +7,7 @@ import parse
 from geojson import dumps
 from collections import Counter
 
-My_file = "C:/Users/VISWANATH/Anaconda3/Data.csv"
+My_file = "path/Data.csv"
 
 #Parses a raw CSV file to a JSON-line object#
 #1.Open the raw file.
